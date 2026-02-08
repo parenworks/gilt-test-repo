@@ -1,0 +1,3 @@
+[submodule "vendor/test-submodule"]
+	path = vendor/test-submodule
+	url = /home/glenn/SourceCode/gilt/tests/gilt-test-repo/../gilt-test-submodule
