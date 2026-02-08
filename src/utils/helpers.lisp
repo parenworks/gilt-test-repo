@@ -3,3 +3,4 @@
 
 (defun join-strings (lst sep)
   (format nil (concatenate 'string "~{~A~^" sep "~}") lst))
+(defun utility-fn () t)
