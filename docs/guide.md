@@ -4,3 +4,5 @@ This is a test guide document.
 Content here.
 ## Section 2
 More content.
+## Section 3
+Even more content.
