@@ -1,2 +1,2 @@
-# Gilt Test Repository
-This repo is used to test all Gilt features.
+# Master version of README
+This is the master version.
