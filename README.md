@@ -1,2 +1,2 @@
-# Gilt Test Repository
-This repo is used to test all Gilt features.
+# Conflict version of README
+This line will conflict.
