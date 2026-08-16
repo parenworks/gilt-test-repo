@@ -4,3 +4,4 @@
 
 (defun process-input ()
   (format t "Processing...~%"))
+(defun feature-b () (format t "Feature B~%"))
