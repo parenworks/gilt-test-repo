@@ -1,0 +1,3 @@
+[submodule "vendor/test-submodule"]
+	path = vendor/test-submodule
+	url = /tmp/gilt-test-kgX6ib/../gilt-test-submodule
